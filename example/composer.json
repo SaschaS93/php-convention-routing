@@ -1,0 +1,22 @@
+{
+    "name": "saschas93/php-convention-routing-example",
+    "type": "project",
+    "authors": [
+        {
+            "name": "SaschaS93",
+            "email": "43013380+SaschaS93@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "saschas93/php-convention-routing": "@dev"
+    },
+    "autoload": {
+        "psr-4": { "SaschaS93\\ConventionRoutingExample\\": "src/" }
+    },
+    "repositories": [
+        {
+          "type": "path",
+          "url": ".."
+        }
+    ]
+}

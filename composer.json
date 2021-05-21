@@ -1,0 +1,15 @@
+{
+    "name": "saschas93/php-convention-routing",
+    "description": "Route http requests by name convention",
+    "type": "library",
+    "authors": [
+        {
+            "name": "SaschaS93",
+            "email": "43013380+SaschaS93@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "SaschaS93\\ConventionRouting\\": "src/" }
+    },
+    "require": {}
+}
